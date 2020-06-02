@@ -1,0 +1,15 @@
+Kitap Adi: cesur yeni dünya,Yazari: Aldous Huxley,İlk Yayin Yili: 1932,ISBN:9780060120375, Yayınevi:İthaki Yayınları
+Kitap Adi: fareler ve insanlar,Yazari: John Stainbeck,İlk Yayin Yili: 1937,ISBN:9780847912667, Yayınevi:Sel Yayınları
+Kitap Adi: bin dokuz yüz seksen dört,Yazari: George Orwell,İlk Yayin Yili: 1949,ISBN:9789750718533, Yayınevi:Can Yayınları
+Kitap Adi: koku, Yazari: Patrick Süskind, İlk Yayin Yili: 1985,ISBN:9789035102934, Yayınevi:Can Yayınları
+Kitap Adi: kadınlar, Yazari:Charles Bukowski ,İlk Yayın Yılı:1978,ISBN:9780876853900, Yayınevi:Parantez yayınları
+Kitap Adi:simyacı, Yazari:Paulo Cohelho, İlk Yayın Yılı:1988 ,ISBN:9788543100517, Yayınevi:Can Yayınları
+Kitap Adi:siyah lale, Yazari:Alexandre Dumas, İlk Yayın Yılı:1850 ,ISBN:9780582534797, Yayınevi:iş kültür yayınları
+Kitap Adi: genç wertherin acıları, Yazari:Goethe,İlk Yayın Yılı:1774 ,ISBN:9783423124010, Yayınevi:iş kültür yayınları
+Kitap Adi:lal masallar, Yazari:Murathan Mungan,İlk Yayın Yılı:1989 ,ISBN:9789751401342, Yayınevi:metis yayınları
+Kitap Adi:faust ,Yazari:Goethe,İlk Yayın Yılı:1829 ,ISBN:9788434600539, Yayınevi:roman oda yayınları
+Kitap Adi:ilk gençlik ,Yazari:Tolstoy,İlk Yayın Yılı:1854 ,ISBN:9781438789002, Yayınevi:iş kültür yayınları
+Kitap Adi:ana ,Yazari:Maksim Gorki,İlk Yayın Yılı:1906 ,ISBN:9786054406166, Yayınevi:kenta yayınevi
+Kitap Adi:ivan ilyiçin ölümü ,Yazari:Tolstoy,İlk Yayın Yılı:1886 ,ISBN:9786053754619, Yayınevi:ithaki yayınları
+Kitap Adi:küçük prens ,Yazari:Antoine De Saint-Exupery,İlk Yayın Yılı:1943,ISBN:9789750724435, Yayınevi:Can yayınları
+Kitap Adi:kazanan yalnızdır, Yazari:Paulo Cohelho, İlk Yayın Yılı:2009 ,ISBN:9788845262791, Yayınevi:can yayınları
